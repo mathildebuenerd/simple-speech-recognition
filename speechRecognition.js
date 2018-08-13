@@ -2,7 +2,7 @@
 //      Variables you can change
 // ------------------------------------
 
-const language = "fr-FR";
+const language = "fr";
 const interimResults = false; // ne montre pas les résultats intermédiaires mais du coup prend plus de temps à afficher le résultat final
 
 const findWords = true;
